@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall law and covenant of God what, and where it is, and who are in it, and who are reprobate to the faith.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52713</idno>
+            <idno type="STC">Wing N308</idno>
+            <idno type="STC">ESTC R19463</idno>
+            <idno type="EEBO-CITATION">12561239</idno>
+            <idno type="OCLC">ocm 12561239</idno>
+            <idno type="VID">63205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63205)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 326:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall law and covenant of God what, and where it is, and who are in it, and who are reprobate to the faith.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 3:  J.N.</note>
+                  <note>Attributed to James Nayler. Cf NUC pre-1956.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63205:1"/>
+            <pb facs="tcp:63205:1"/>
+            <p>The ROYALL LAW, <hi>AND</hi> COVENANT OF GOD.</p>
+            <p>What, and where it is, and who are in it: And who are Reprobate to the FAITH.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Giles Calvert,</hi> and are to be ſould at the black Spread-<hi>Eagle</hi> at the Weſt<g ref="char:EOLhyphen"/>end of <hi>Pauls.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:63205:2"/>
+            <head>
+               <hi>The Royall Law,</hi> and <hi>Covenant of God.</hi> What, and where it is, and who are in it: And who are Reprobate to the Faith.</head>
+            <div type="part">
+               <p>
+                  <hi>
+                     <seg rend="decorInit">A</seg>S many as are led by the Spirit of God, they are the Sons of God,</hi> who are begotten of the Royall Spirit, not of the Earthly, but of the Heavenly, a Seed ſeparated from the World, to ſerve in Spirit, who have the Royall Law written in their hearts, and the Royall Worſhip in Spirit and power, which are of the Royall Prieſthood, of which the Spirit of the world makes an imitation, from the letter, the words ſpoke by them who was of the Royal Seed, but knowes not the Spirit, therefore ſets up the earthly Spirit to worſhip, contrary to the Law Royall, which is ſpirituall and pure for ever, and this Spirit would rule over the Spirit of God, which makes a profeſſi<g ref="char:EOLhyphen"/>on of the words given ſorth by the Spirit of God. And ſuch are you as make Lawes which ſtand in reſpect of perſons, where ſelfe is eyed and would be honoured. And by the Royall Law are you condemned, which denies reſpect of perſons, and leads to doe to all men as they would be done unto; and upon this foundation ſtands all the Law and the Prophets. So you who profeſſe the Law and the Prophets words, and ſet up reſpect of perſons, with the Law and the Prophets words you are judged, and your, partiall evill thoughts, <hi>James</hi> 2. And your profeſſion ſhall ariſe in con<g ref="char:EOLhyphen"/>demnation againſt you; and from all that have the faith of Chriſt are you condemned, which faith cannot be where reſpect of perſons is, <hi>John</hi> 5. 44. <hi>James</hi> 2. becauſe it ſtands in God, who reſpects no mans perſon; ſo with the foundation of God you are caſt out, and with the Royall Law are you condemned. And all you that count the proud happy, and deſpiſe the poore, are againſt the Royall Law And all you who doe not as you would be done unto, are againſt the Royall Law. And all you that ſay and doe not, whoſe hearts teacheth not, your mouth, are out of the Royall Law, and not guided by that Spirit, nor of that Prieſthood, nor doth thoſe lips preſerve knowledge, but all ſuch darkens Counſell by words without knowledge, and knowes not the Royall Law of God. And all who takes the Saints words to plead againſt the Saints life and practiſe, are againſt the Royall Law, and the Royall Prieſthood, and with it are judged and condemned, and with it are ſeen to be perverters of the Scriptures; uſing them to draw into the imitations and traditions, thereby making the Royall Law of none effect; which Law is written in the heart, which is before tradition was, which Law you make voyd, who receive not your Law and light there, and Chriſt is not your Law-giver, whoſe Law is ſpi<g ref="char:EOLhyphen"/>rituall, and ſo is his Prieſthood, and ſo is his Judgement, and his King<g ref="char:EOLhyphen"/>dome Royall, and who are united there are the Royall Diadem, joyned to the Lord in everlaſting Covenant, married in the Spirit, where is no diſſo<g ref="char:EOLhyphen"/>lution,
+<pb facs="tcp:63205:2"/>
+but fruitfull for ever. But all you who reſpects perſons, caſts the Royall Law of God behind your backs, and trample it under your feet, and makes it of none effect. And all you that reſpect perſons, are tranſ<g ref="char:EOLhyphen"/>greſſors, and committers of ſin, and judged with the Royall Law of Liber<g ref="char:EOLhyphen"/>ty, which ſaith, <hi>So ſpeake, and ſo doe,</hi> and <hi>Thou ſhalt love thy neighbour as thy ſelfe;</hi> and if you doe ſo, you doe well, but if you doe reſpect mens per<g ref="char:EOLhyphen"/>ſons, ye commit ſin, and are convinced of the Law as tranſgreſſours. And you that reſpect him that wears the gay Cloathing, and gold Ring, and de<g ref="char:EOLhyphen"/>ſpiſe the poor, ye are the partiall, and the Judgers with the evill thoughts, and ſuch are not Heires of the Kingdome of Promiſe, but the poor deſpiſed rich in faith, who are in the Law of Liberty, reſpects no mans perſon, but it convinceth all that doth. And who are in the faith, without reſpect of perſons, for who are in reſpect of perſons, are out of the faith of our Lord Jeſus Chriſt; and ſuch are <hi>Reprobate concerning the faith, being filled with unrighteouſneſſe, profeſſing they know God, but in works they deny him,</hi> worſhip<g ref="char:EOLhyphen"/>ping and ſerving the Creature, more then the Creator.</p>
+               <closer>
+                  <signed>J. N.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>A Paper ſhewing the glory of man that God will ſtaine, and ſhewes the glory of God that cannot be ſtained.</head>
+               <p>SCum off the filth, and come from under the thick Clay which ye are la<g ref="char:EOLhyphen"/>den withall, eaſe your ſelves of that burthen, the Beaſts of the South are great, which goeth on as the Ox to the ſlaughter, to whom the word of the Lord is a ſword, hammer, and fire. The wanton ones, and careleſſe ones are many, and ſuch as be in pleaſures, which be dead while they live, which ſtaines and defiles the earth, which the bleſſing comes not upon, but the Sword, and the Judgement, and the Canker, and the Deſtroyer, and the Ruſt, and the Waſter, and amongſt ſuch as fear the Lord, God will him reſtraine, and rebuke the waſter, and deſtroyer, that the bleſſing of <hi>Abraham</hi> may be knowne.</p>
+               <p>But God is ſtaining the glory of man, they which dwell in the Eternall, where the glory of it is not ſeeked for, ſeeth with the eternall light, how God hath ſtained, and doth it ſtaine daily, and ſo bring his glory to him<g ref="char:EOLhyphen"/>ſelfe, and brings mans honour and glory into contempt, we ſee it fades as the flower, and withers as the graſſe, but <hi>the word of the Lord endures for ever,</hi> which the Children of light delights in, and ſees that to the wicked it is a hammer, to beat downe their pride, and it is as a ſword to cut down their honour, and layes it in the duſt, and is as a fire, doth b<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> them up, <hi>all the proud, and them that doe wickedly, for they are as the ſtubble;</hi> and though the fleſhly mind profeſſe the letter, and call it the word, and call it the light, the light they ſhall finde to be their condem<g ref="char:EOLhyphen"/>nation, and the word they ſhall find to be as a hammer, and as a ſword among them, and upon them, and as a fire to burne them up.</p>
+               <p>Let this be publiſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d abroad; for the cleanſing of the Land of evil doers is the Lord now come, and his Truth is he exalting, and Tares is knowne
+<pb facs="tcp:63205:3"/>
+from wheat, and chaffe, and ſtubble which all is to be burnt with fire. Read and underſtand every one with the life of God, that you may comprehend all the powers of darkneſſe, and the wiles, and temptations, and ſnares, with the life and power that cannot be limitted. Glory to the Lord God for ever.</p>
+               <p>Ye gazers, and mockers, and gluttonous ones, and drunkards, and evill beaſts, whoſe God is your belly, who minde earthly things, and lives in the luſts of your own conceivings; who now ſay where is the time of his coming, and are obſervers of times, but ſees him not where he is manife<g ref="char:EOLhyphen"/>ſted, and makes a mock at his meſſengers, which are his witneſſes, and ſtone them in your ſtreets, and caſts them into holes and dungeons, cor<g ref="char:EOLhyphen"/>ners and priſons, and houſes of correction, and whipping them, and beating them in your ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kets ſtripping naked, ſetting your dogs upon them and tearing their cloaths, beating them with cudgels and caſting dirt upon them, who are made white through the blood of the Lamb, and haling them out of your Synagogues before Magiſtrates and Counſels and chief Prieſts, them which witneſſe the everlaſting Prieſt,</p>
+               <p>And here you are they that fulfill Chriſts words, who ſaid they ſhould h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le you before Rulers, and ſcourge you in Synagogues and Counſels, and Chriſt is now manifeſt the ſame that ever was; and you are made mani<g ref="char:EOLhyphen"/>feſt to be the Generation to oppoſe him, who makes war againſt him; and the ſon of man now raigns, Chriſt Jeſus, amongſt his children that learn of him, who heareth the Prophet that <hi>Moſes</hi> ſpoke off, and every one that will not hear this Prophet is to be cut off, and now many that will not hear this Prophet are numbred to the ſword. And you that deny the light that Chriſt Jeſus hath enlightned every man that comes into the world withall that th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ough him all might believe. So you that deny this light which Chriſt hath enlightned every one that comes into the world withall, you do not beleive, but calls it a naturall light, who are in your naturall ſtate and ſtumbleth at the Light, and are blinde and led with the blinde, and ſo ſhall bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h go into the ditch; So Chriſts Reign you know not which receives not the Light which enlightneth every man that comes into the world, that through him they might beleeve; So every one ow<g ref="char:EOLhyphen"/>ning the Light which cometh from Chriſt, it will bring you to hear the true Prophet, and learn of him, ſo with the Light you will come to ſee Chriſt Jeſus Gods righteouſneſſe, now you that do ſtumble and deny the Light which comes from Chriſt Jeſus, which is Gods righteoſneſſe, if you profeſſe any righteouſneſſe (being in that ſtate driven from God) it is your own righteouſneſſe, though you may profeſſe all the Saints words and the Prophets and Chriſts words and the holy men of God, and deny the Light which comes from Chriſt, you ſtumble at Gods righteouſneſſe and deny it that denies the Light which comes from Chriſt, which light<g ref="char:EOLhyphen"/>neth every one that comes into the world, and are all found in your own Righteouſneſſe. And you that deny that Chriſt Jeſus is the Light of the world, and enlightens every one that comes into the world, and do not own the Light, you are in your will worſhips and all your worſhips are in your wills, and are to be condemned with the Light, and ſo you be all in he ſtate of wrath and darkneſſe droven from God, ſhut up in unbeliefe
+<pb n="5" facs="tcp:63205:3"/>
+will worſhip and ſelf righteouſneſſe your own works, and are not yet come to own the Son of God, who lightneth every one that cometh into the world, that through him all may beleeve.</p>
+               <p>God who is light drove man from him, ſo he being in darkneſſe and in the earth and under the power of Satan, God ſending his Son his Light, into the world, which is the Light of the word, which lighteth every man that cometh into the world, that all men through him might beleive, and learn of Chriſt, and hear him who is the true Prophet; and he that doth not believe in the Son of God, the Light, is condemned already with the Light, for this is the condemnation the light, ſaith Chriſt Jeſus; and he that hears not this Prophet ſhall be cut off.</p>
+            </div>
+            <div type="part">
+               <head>Alſo a Paper ſpeaking of the two Seeds.</head>
+               <opener>
+                  <salute>DEare Brethren and Siſters, in the viſible life which hath been hid from ages, but now is made manifeſt in the Son by the revelation of his coming in this life am I one with you, and doth dearly ſallute you all farewell.</salute>
+               </opener>
+               <p>Upon the firſt day of the week, being the 24<hi rend="sup">th</hi> day of the 4 month, the word of the Lord came unto me ſaying, thus ſaith the Lord, If ye my dear children, whom I have convine't by my pure Light in your conſciences, will hearken to my counſel and will ſtand in my fear, then ſhall my ſecrets be made known unto you, and you ſhall grow up in the know<g ref="char:EOLhyphen"/>ledge of me, as calves of the ſtall, and my knowledge ſhall cover the whole earth, as the waters cover the Sea, and the earth ſhall be removed out of its place; and the mountaines under which my pure ſeed ſuffers will I re<g ref="char:EOLhyphen"/>move by my mighty power, ſaith the Lord of hoſts; and I will raiſe up the mountaine of my holineſſe, and eſtabliſh it on the top of the moun<g ref="char:EOLhyphen"/>tains, and ye ſhall become the glory of the whole earth, and ye ſhall be called <hi>Sion,</hi> the City of the living God, the habitation of my holineſſe, from whence my pure and righteous Law ſhall go forth, which ſhall cut down all the unrighteous Laws made in the will of man, which are turned from my pure Light in the conſcience; and righteouſneſſe and truth ſhall k<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe each other, and run down the Nations like a mighty ſtream; and vio<g ref="char:EOLhyphen"/>lence and oppreſſion ſhall ceaſe, and the rod of the wicked will I remove from off your backs, and their heavy yoakes and bonds which have been made as bulwarks to keep my pure ſeed in bondage, will I by my mighty power break in ſunder, and the oppreſſed will I ſet free, and the wilde beaſts of the field, which ye have long been a p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey unto, will I cauſe to ceaſe out of your land, and you ſhall be no more a rep<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oach to the heathen ſaith the Lord, but ye ſhall become a ter<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our and a dread to all your e<g ref="char:EOLhyphen"/>nemies, and I will mul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iply my bleſſings upon you, and will eſtabliſh my Covenant with you, even the ſure mercies of <hi>David,</hi> and I will write my pure Law in your hearts, and ye ſhall not depart from me, neither ſhall you need to ſay to any man know the Lord, for ye ſhall all know me from the leaſt even to the greateſt, and an open fountaine will I be unto you, as you abide in my pure fear, to cleanſe you from your ſins, and to refreſh my own in every one of you; and I will be unto you as the former and
+<pb facs="tcp:63205:4"/>
+the latter raine in its due ſeaſon, and you ſhall ſit under your own vine which is Chriſt in you, and eat of your own fruit and none ſhall make you afraid, and ye ſhall be my ſheep and the flock of my paſture, and ye ſhall be no longer a prey to the Idoll Shepheards, who have ſed themſelves but not my flock, therefore will I feed them with Judgement, and by my mighty power will I redeem you out of their mouths, and I will be your alone Shepheard and you ſhall be my people ſaith the Lord of hoſts.</p>
+               <p>And this is witneſſed by many who have not thought their lives dear un<g ref="char:EOLhyphen"/>to them, but hath freely given up to the death of the Croſſe, and hath walked in obedience of my pure Light in their conſciences, contrary to their own wills, and in theſe is my power known, and my glorious preſence witneſſed; and now thus ſaith the Lord, If ye who are convinced by my pure Light in your conſciences, and walk not in obedience to it, but ſlights my counſell, and caſt my Law behinde your backs, and abide not in my fear, which would have kept you out of all ſlaviſh feares, and will go on to uphold this filthy abominable thing in my ſight, in upholding with your outward eſtates a crooked viprous ſerpentine Generation of Prieſts who devoure the ſoules of the people for diſhoneſt gaine, though you are convinced by my pure Light in your conſciences, that they ran and I ſent them not, neither have they ſtood in my counſell but have erred from my ſpirit, as their Father <hi>Balaam</hi> did, and becauſe they have unrigh<g ref="char:EOLhyphen"/>teous Laws m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de in the will of man for the upholding of their unrigh<g ref="char:EOLhyphen"/>teous maintainance; which they with greedineſſe do ſeek after, and where they cannot have it there they bite and devoure; and yet I, ſaith the Lord according to my promiſe made of old in love to your ſouls, have pluckt you out of their mouths, that ye ſhould be no longer a prey unto them, and yet many of you for feare of the unrighteous Laws, made in the will of proud fleſh which is contrary to my pure Law in the conſcience, have conſulted with fleſh and blood, which ſhall never enter in my reſt, and ſo hath cumbred your minde with fears and troubles of what would come after if you ſhould withſtand them of what they call theirs, being that they have a Law to compell us thereunto and we ſhall bring further trouble upon our ſelves.</p>
+               <p>And heare the earthly minde that is not willing to ſuffer for my name ſake comes to be exalted and the will of man is bowed unto: and my pure ſeed which boweth not unto the ſeed of evill doers, neither can uphold any deceite but teſtifies againſt it, comes to to be betrayed into the hands of the murderer; and now the witneſſe<g ref="char:punc">▪</g> being ſlaine you are at eaſe and can uphold the Idols Temple and the Idols Shepheards and changeable Prieſts; and here the carnall upholds the carnall, but my light which is eternall you are turned from, and the hands of the wicked are ſtrength<g ref="char:EOLhyphen"/>ned by you, and you add afflictions to my childrens bonds, who through faithfulneſſe to me are made willing to ſuffer for my names ſake, the ſpoy<g ref="char:EOLhyphen"/>ling of their goods with joy, and to be caſt into dungeous and priſons for the teſtimony of a good conſcience.</p>
+               <p>
+                  <pb n="7" facs="tcp:63205:4"/>But ye who can conforme and bow to the will of man, and ſtumble at the Croſſe, and deale in hypocriſie, you are with my pure light by which my Saints are perfected, to be judged and condemned, and I will rip off all your coverings, ſayth the Lord, which you in your earthly wills have made, to cover over your deceipts withall. And you my dear children who have thorow ignorance upheld them, Idoll Shepheards with the carnall things, remember you have been warned from me, ſaith the Lord; ſee you uphold them no longer, for my hand is ſtretched out againſt them<g ref="char:punc">▪</g> and by my mighty power will I bring them downe, and thoſe that up<g ref="char:EOLhyphen"/>hold them, therefore are you left without excuſe, for at your ignorance I winked at, but now by my pure light in your conſciences, are you con<g ref="char:EOLhyphen"/>vinced, that I the Lord am the ſum of all figures, types, and ſhadowes, and all changeable things, and of the changeable Prieſthood, and of the changeable Temple for ye are my Temple ſayth the Lord, and the habi<g ref="char:EOLhyphen"/>tation of my holineſſe, whom I have ſeparated and choſen by my power to place my name amongſt you; and I will be a Prieſt unto you, after the everlaſting Order, and ye ſhall be Kings and Prieſts, and ſhall raigne over the earth, over the Beaſt and the falſe Prophet; therefore my dear Lambs and Babes be bold and valiant for my truth upon the earth, and contend earneſtly for the faith which was once delivered to my dear Children of old, your brethren the Prophets and Apoſtles, which hath paſſed before you, which was ſhamefully intreated by the wicked world, therefore in my pure counſell ſtand and abide, and look not out at the proſperity of the wicked, for by the red Sea of my wrath, and fierce diſpleaſure, will I deſtroy and conſume all your enemies and oppreſſors, ſaith the Lord of Hoſts; therefore rejoyce and be glad ye righteous ones, and be faithfull to the Lord, for your redemption draweth nigh.</p>
+               <closer>
+                  <signed>
+                     <hi>Rich: Salle,</hi> Priſoner at <hi>Derby, writ to friends.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>ALL you that have a ſet wages for reading the Scriptures, which was ſpoken forth freely, Chriſt ſent his Diſciples to ſpeak forth freely, and the words which they ſpoke forth freely, doe you make a Trade of, and have great ſums of money for, and the Apoſtles which writ the Epiſtles which was to be read among the Saints, he charged them to read it by the Lord, and he did not ſay they ſhould have ſo much in the year for reading of it, for it was ſent freely, to be read freely; and the writing which was in the <hi>Revelations,</hi> was to be read freely, which was ſent to the Churches in <hi>Aſia;</hi> they was not to have great ſums of money to read that which was written; and <hi>Jeremiah</hi> which was commanded to write the Rowle, which was to be read, he had not a great ſum of money for it, for they burnt it; and <hi>Moſes</hi> which wrote the two Tables and the Law which was to be read among the People, they had not ſo many hundreds a year for reading of it; but oh what abundance doe make merchandize of the
+<pb n="8" facs="tcp:63205:5" rendition="simple:additions"/>
+Saints words? But let theſe examples before that be mentioned, judge you all, to be ſuch as are greedy of filthy lucre, and through covetouſneſſe make merchandize of the people, going in the way of <hi>Cain,</hi> after the er<g ref="char:EOLhyphen"/>rour of <hi>Balaam,</hi> who periſhed in the gain ſaying of <hi>Core,</hi> whoſe judgements of a long time lingers not, whoſe damnation ſlumbers not; and there you may ſee your examples before mentioned.</p>
+               <p>
+                  <hi>FRiends,</hi> Had the Prophets, Chriſt, and the Apoſtles, when they were ſpeaking forth the Scripture if any ſpoke to them in their time, or asked them any Queſtion while they were ſpeaking forth the Scriptures, a Law to ſend them to Priſon, and ſay they did diſturb them? was they of ſuch a perverſe Generation that ſpoke forth the Scriptures? by a Law did they cauſe them to ſuffer that oppoſed the Prophets and the Apoſtles as you doe, who doth profeſſe the words that were given forth from them that were priſoned and contradicted; you with your Law to priſon them that witneſſe the Life, and are in the Life that gave forth the Scrip<g ref="char:EOLhyphen"/>tures; and with your Law holds up them: which hath their words but not their Life, as their fruits doth make it appear; therefore ſome examples, ſuch as bear rule by their means, were cryed againſt: with them who were in the Life, and ſuch as ſeeke for their gaine from their Quarter, and ſuch as are Hirelings, and ſeeke for the fleece, and ſuch as ſtands praying in the Synagogues, and are called of men Maſters, and hath the chiefeſt ſeat in the Aſſemblies, and ſuch as ſue men at the Law, which are not wiſe men: and ſuch as goe in <hi>Cain's</hi> and <hi>Balaams</hi> way, ſuch were cryed againſt with the life that gave forth the Scriptures, which uſed their tongues and ſaid the Lord ſaith, when the Lord had not ſpoken to them: And ſuch as have gotten the Saints words, and talke of them for money, and muſt be maintained by a Law, and muſt have a houſe maintained by poore people, when as the Life that gave forth the Scriptures teſtified againſt ſuch things, and now it comes to be made manifeſt, what men you doe hold up and juſtifie.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63205:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
